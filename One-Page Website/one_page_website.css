@@ -1,0 +1,37 @@
+header {
+    font-family: cursive;
+    font-size: x-large;
+}
+
+h2 {
+    font-family: serif;
+    font-size: larger;
+}
+
+p {
+    font-family:cursive;
+    font-size: small;
+
+}
+                  
+h1 {
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+h3 {
+    font-family: serif;
+    font-size: smaller;
+}
+
+span {
+    font-family: cursive;
+    font-size:small;
+}
+
+input[type="text"] {
+    width: 50%;
+    margin: 15px 25px;
+    border: 2px solid #FF8C00;
+    border-radius: 25px;
+}
